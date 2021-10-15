@@ -1,0 +1,43 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-image: url("images/bg-img.webp");
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: goldenrod;
+    margin-top: 55px;
+    font-weight: 500;
+    font-size: 65px;
+}
+
+#message-el {
+    font-style: italic;
+    padding-top: 30px;
+    font-size: 35px;
+}
+
+
+#cards-el, #sum-el {
+    font-size: 30px;
+}
+
+button {
+    box-shadow: 0 1rem 3rem rgb(0 0 0 / 30%);
+    color: #016f32;
+    background: goldenrod;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 20px 45px;
+}
+
+button:hover {
+    color: white;
+    background-color: #29B8A6;
+    box-shadow: 0 1rem 3rem rgb(0 0 0 / 50%);
+}
