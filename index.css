@@ -8,10 +8,11 @@ body {
 }
 
 h1 {
-    color: goldenrod;
-    margin-top: 55px;
+    color: white;
+    margin-top: 169git px;
     font-weight: 500;
-    font-size: 65px;
+    font-size: 90px;
+    font-weight: 900;
 }
 
 #message-el {
