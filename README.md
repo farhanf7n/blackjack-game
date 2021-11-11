@@ -2,4 +2,4 @@
 
 > I created this blackjack game using JS
 
-[!screenshot] images/BlackJack-game.png
+[!screenshot] (/images/BlackJack-game.png)
